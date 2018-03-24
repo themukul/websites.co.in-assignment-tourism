@@ -1,0 +1,18 @@
+.fa-facebook-square, .fa-twitter-square, .fa-linkedin{
+    font-size: 25px;
+    color: white;
+}
+
+
+.page-footer{
+    background-color: #000022 !important;
+}
+
+.page-footer h5{
+    color: #DE3C4B !important;
+}
+
+.brand-logo-foot{
+    font : normal 45px 'Leckerli One' !important;
+    color: #DE3C4B !important;
+}

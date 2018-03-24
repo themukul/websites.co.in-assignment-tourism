@@ -1,0 +1,15 @@
+.blog-wrap{
+    padding-top: 40px;
+/*    background-color: #4a4a4a;*/
+}
+
+.fa-facebook-square, .fa-twitter-square, .fa-linkedin{
+    font-size: 30px;
+    color: white;
+}
+
+
+body{
+    background-color: #FBF9F6;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}

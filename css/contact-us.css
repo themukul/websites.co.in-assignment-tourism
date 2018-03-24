@@ -1,0 +1,14 @@
+.fa-facebook-square, .fa-twitter-square, .fa-linkedin{
+    font-size: 30px;
+    color: white;
+}
+
+
+body{
+    background-color: #FBF9F6;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+.form-wrapper{
+    margin-bottom:100px;
+}

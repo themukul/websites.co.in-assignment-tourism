@@ -1,0 +1,33 @@
+.travel{
+    background-image: url("../media/images/blog-2.jpg");
+}
+
+.explore{
+    background-image: url("../media/images/explore.jpg");
+}
+
+.live{
+    background-image: url("../media/images/live.jpg");
+}
+
+.discover{
+    background-image: url("../media/images/discover.jpeg");
+}
+
+
+
+body{
+    background-color: #FBF9F6;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+.blog-3{
+    background-image: url("../media/images/blog-2.jpg");
+}
+.blog-2{
+    background-image: url("../media/images/parallax1.jpg");
+}
+.blog-1{
+    background-image: url("../media/images/blog-5.jpg");
+}
+
